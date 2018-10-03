@@ -1,0 +1,31 @@
+Review Questions
+1.A
+2.B
+3.D
+4.C
+5.B
+6.B
+7.A
+8.D
+10.B
+12.C
+14.T
+15.T
+16.F
+17.T
+18.F
+Find the Error
+1. No void in the constructor
+2. There are no values for the parameter
+3. No parenthesis for the constructor
+Short answer 
+1. The Class is the blueprint while an instance is one version or build of the blueprint.
+3. Accessor - Values that cannot be changed in main program. 
+   Mutator - Values that are changed in main program.
+4. It is so there is no conflict in main method
+5. The class does.
+6. Its a new instance of the class.
+9. They can easily be used multiple times with the same format.
+10. Attributes are contained in the fields.
+11. The parameter is only used in the argument of a certain method.
+12. When no constructor is written in code.

@@ -1,0 +1,13 @@
+    ----------------------------------------
+	| Car 									|
+	| ----------							|
+	| -yearModel: int      					|
+	| -make: String 						|
+	| -speed: int							|
+	| ------------							|
+	| +set yearModel (int yModel): void	    |
+	| +set make (String make2): void		|
+	| +get yearModel						|
+	| +get make								|
+	| +get speed							|
+	----------------------------------------

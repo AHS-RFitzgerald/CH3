@@ -1,0 +1,20 @@
+    ----------------------------------------
+	| Car 									|
+	| ----------							|
+	| -name: String     					|
+	| -age: int								|
+	| -phoneNumber: int						|
+	| -addressL: String 					|
+	| -addressN : int						|
+	| ------------							|
+	| +set name (String n): void	 	    |
+	| +set addressL (String aL): void		|
+	| +set addressN	(int aN): void			|
+	| +set age (int a) : void				|
+	| +set phoneNumber (int a): void		|
+	| +get name								|
+	| +get addressL							|
+	| +get addressN							|
+	| +get age								|
+	| +phoneNumber							|
+	----------------------------------------
