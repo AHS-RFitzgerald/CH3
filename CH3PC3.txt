@@ -7,7 +7,7 @@
 	| -addressL: String 					|
 	| -addressN : int						|
 	| ------------							|
-	| +set name (String n): void	 	    |
+	| +set name (String n): void	 ****should be +setName(n: String): void*****	    |
 	| +set addressL (String aL): void		|
 	| +set addressN	(int aN): void			|
 	| +set age (int a) : void				|
